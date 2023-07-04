@@ -29,7 +29,8 @@ Récemment, j'ai intégré à mon offre le développement Low Code / No Code, un
 
 ## Une équipe d'experts à votre service
 
-Bien que je travaille en tant qu'indépendant, je ne suis jamais seul. Je suis entouré d'une équipe d'experts aux compétences complémentaires qui m'accompagnent sur mes projets. Charly, spécialiste des bases de données, Sandrine, experte en design d'interface, Rémi, un as de la programmation, et Julien, spécialiste en cybersécurité, font partie de mon réseau de confiance. Ensemble, nous formons une équipe dédiée à la réussite de votre projet.
+Bien que je travaille en tant qu'indépendant, je ne suis jamais seul. Je suis entouré d'une équipe d'experts aux compétences complémentaires qui m'accompagnent sur mes projets. Charly, spécialiste des bases de données, Sandrine, experte en design d'interface, Rémi, un as de la programmation, et Julien, spécialiste en cybersécurité, font partie de mon réseau de confiance.
+* Ensemble, nous formons une équipe dédiée à la réussite de votre projet. *
 
 ## Vous vous reconnaissez dans cette approche ?
 

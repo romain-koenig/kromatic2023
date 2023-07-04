@@ -39,4 +39,9 @@ Que ce soit pour une approche à court terme, moyen terme ou long terme, je suis
 
 Je m'engage sur un périmètre d'intervention et des livrables précis. Je ne travaille avec vous que si je peux vous apporter un gain. Et vous ne prenez pas de risque : vous pouvez suspendre notre collaboration à tout moment.
 
+## Une équipe à votre service
+
+Je travaille avec un réseau de partenaires de confiance, experts dans leur domaine, pour vous apporter une solution globale et adaptée à vos besoins.
+Rédaction de contenus, SEO, graphisme, développement web, développement d'applications mobiles, etc. : je m'entoure des meilleurs pour vous offrir un service de qualité.
+
 ## Êtes-vous prêt à transformer votre entreprise grâce à la technologie simplifiée&nbsp;? Contactez-moi pour discuter de vos besoins.
