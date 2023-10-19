@@ -1,0 +1,30 @@
+name: Deploy to FTP
+
+on:
+  push:
+    branches:
+      - main  # ou la branche que vous utilisez
+  # déploiement aussi possible à la main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Build project
+      run: |
+        npm install
+        npx @11ty/eleventy
+
+    - name: Deploy to FTP
+      uses: SamKirkland/FTP-Deploy-Action@4.3.4
+      with:
+        server: kromatic.fr
+        username: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
+        server-dir: /
+        local-dir: public
