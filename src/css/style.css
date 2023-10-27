@@ -1,7 +1,22 @@
 @media (prefers-color-scheme: dark) {
 	body {
-		background: #000
+		background: #000;
+		color: #fff
 	}
+
+	a {
+		color: #af96ff
+	}
+
+	a:visited {
+		color: #866cdb
+	}
+
+}
+
+img {
+	display: block;
+	margin: 0 auto
 }
 
 body {
