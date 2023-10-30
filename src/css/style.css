@@ -3,6 +3,14 @@
 		background: #000;
 		color: #fff;
 	}
+
+	a {
+		color: #9494FF;
+	}
+
+	a:hover {
+		color: #b58fde;
+	}
 }
 
 body {
