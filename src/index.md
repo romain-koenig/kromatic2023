@@ -9,7 +9,15 @@ layout: base.njk
   Depuis 2019, Kromatic est votre partenaire privilégié dans la transformation digitale. Avec 15 ans d'expérience en informatique, je mets à votre disposition mes compétences en conseil, développement, expertise IA et solutions Low Code / No Code.
   Kromatic fédère un collectif d'experts, chacun spécialisé dans son domaine, pour vous offrir une solution complète et de qualité.
 
-  ![Portrait Romain Koenig](/images/ditherPortrait.png "Portrait Romain Koenig")
+
+  <img  src="/images/PORTRAIT_800.jpg"
+        srcset="/images/PORTRAIT_800.jpg 800w,
+             /images/PORTRAIT_400.jpg 400w,
+             /images/PORTRAIT_300.jpg 300w"
+        sizes="(max-width: 400px) 300px,
+            (max-width: 800px) 400px,
+            800px"
+        alt="Portrait Romain Koenig">
 
    ## Mon engagement
   
@@ -29,6 +37,16 @@ layout: base.njk
 
   ![Solarpunk illustration - tech for a better tomorrow](/images/solarpunk_illustration_01.png "Solarpunk illustration - tech for a better tomorrow")
 
+  <img class = "sept_cinq" 
+      src="/images/SOLARPUNK_01_800.jpg"
+      srcset="/images/SOLARPUNK_01_800.jpg 800w,
+            /images/SOLARPUNK_01_400.jpg 400w,
+            /images/SOLARPUNK_01_300.jpg 300w"
+      sizes="(max-width: 400px) 300px,
+          (max-width: 800px) 400px,
+          800px"
+      alt="Solarpunk illustration - tech for a better tomorrow">
+
   ## Low Code / No Code
   La technologie doit être accessible à tous. Avec les solutions Low Code / No Code, je vous aide à automatiser vos processus, améliorer votre productivité et innover rapidement, sans les contraintes du développement traditionnel.
   
@@ -44,7 +62,7 @@ layout: base.njk
   ## Ma promesse
   Chaque collaboration est basée sur la transparence, l'efficacité et la flexibilité. Je m'engage à vos côtés, avec des objectifs clairs et des livrables précis. Et parce que la confiance est essentielle, vous restez libre de notre collaboration à tout moment.
 
-  * Conscient des enjeux environnementaux, je prône une utilisation raisonnée et responsable de la technologie.  
+  * Conscient des enjeux environnementaux, je prône une utilisation raisonnée et responsable de la technologie. 
   * Avec une approche éthique et durable, je m'efforce de proposer des solutions qui ont du sens, tant pour l'entreprise que pour la société.  
   * Je favorise les solutions Libres et Ouvertes, garantes d'une pérénité et d'une indépendance à long terme.  
   * Kromatic est une activité de lÉconomie Sociale et Solidaire (ESS).  

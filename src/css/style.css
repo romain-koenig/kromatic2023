@@ -19,6 +19,13 @@ img {
 	margin: 0 auto
 }
 
+
+.sept_cinq {
+	aspect-ratio: 7 / 5;
+	width: 100%;
+}
+
+
 body {
 	margin: 1em auto;
 	max-width: 40em;
