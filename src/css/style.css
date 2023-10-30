@@ -19,9 +19,18 @@ img {
 	margin: 0 auto
 }
 
+.un_un {
+	aspect-ratio: 1 / 1;
+	width: 100%;
+}
 
 .sept_cinq {
 	aspect-ratio: 7 / 5;
+	width: 100%;
+}
+
+.seize_neuf {
+	aspect-ratio: 16 / 9;
 	width: 100%;
 }
 
