@@ -1,14 +1,12 @@
 @media print {
 
-	/* Masquer les éléments non essentiels */
 	nav,
 	footer {
 		display: none !important;
 	}
 
-	/* Utilisation de couleurs minimales */
-	body {
-		color: black !important;
+	img {
+		display: none !important;
 	}
 
 	a,
@@ -16,17 +14,13 @@
 		text-decoration: underline;
 	}
 
-	/* Optimiser la taille de la police et les marges */
 	body {
+		color: black !important;
 		font-size: 10pt;
-	}
-
-	/* Utiliser une largeur fixe */
-	body {
+		font-family: "Century Gothic", Arial, sans-serif;
 		width: 100%;
 	}
 
-	/* Supprimer les arrière-plans */
 	body,
 	a,
 	a:hover,
@@ -34,17 +28,10 @@
 		background: none !important;
 	}
 
-	/* Utiliser des images minimales */
-	img {
-		display: none !important;
-	}
-
-	/* Afficher les URLs des liens */
 	a[href]:after {
 		content: " (" attr(href) ") ";
 	}
 
-	/* Utilisation de page-break pour contrôler la pagination */
 	.page-break {
 		page-break-before: always;
 	}
