@@ -57,3 +57,62 @@ h3 {
 .center {
 	text-align: center
 }
+
+
+@media print {
+
+	/* Masquer les éléments non essentiels */
+	nav,
+	footer {
+		display: none !important;
+	}
+
+	/* Utilisation de couleurs minimales */
+	body {
+		color: black !important;
+	}
+
+	a,
+	a:visited {
+		text-decoration: underline;
+	}
+
+	/* Optimiser la taille de la police et les marges */
+	body {
+		font-size: 12pt;
+	}
+
+	/* Utiliser une largeur fixe */
+	body {
+		width: 100%;
+	}
+
+	/* Supprimer les arrière-plans */
+	body,
+	a,
+	a:hover,
+	a:visited {
+		background: none !important;
+	}
+
+	/* Utiliser des images minimales */
+	img {
+		display: none !important;
+	}
+
+	img::after {
+		content: attr(alt);
+		display: inline-block !important;
+	}
+
+	/* Afficher les URLs des liens */
+	a[href]:after {
+		content: " (" attr(href) ") ";
+		font-size: 90%;
+	}
+
+	/* Utilisation de page-break pour contrôler la pagination */
+	.page-break {
+		page-break-before: always;
+	}
+}
