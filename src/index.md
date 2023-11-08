@@ -2,13 +2,11 @@
 layout: base.njk
 ---
 
-  ## Accompagnement transformation digitale. Expertise IA&nbsp;- Low&nbsp;Code&nbsp;/ No&nbsp;Code
+  ## Votre partenaire en transformation digitale et expertise IA.&nbsp;- Low&nbsp;Code&nbsp;/ No&nbsp;Code
 
-  Je m'appelle Romain Koenig, et je suis le fondateur de Kromatic.
-  
-  Depuis 2019, Kromatic est votre partenaire privilégié dans la transformation digitale. Avec 15 ans d'expérience en informatique, je mets à votre disposition mes compétences en conseil, développement, expertise IA et solutions Low Code / No Code.
+  Je suis Romain Koenig, fondateur de Kromatic. Depuis 2019, nous sommes dédiés à accompagner les entreprises dans leur transformation digitale. Avec une expérience de 15 ans dans le secteur informatique, j'offre des services de conseil, développement, expertise en IA et solutions Low Code / No Code.
+
   Kromatic fédère un collectif d'experts, chacun spécialisé dans son domaine, pour vous offrir une solution complète et de qualité.
-
 
   <img  class = "un_un"
   src="/images/PORTRAIT_800.jpg"
@@ -22,7 +20,7 @@ layout: base.njk
 
    ## Mon engagement
   
-  Au-delà des technologies, mon objectif est de vous apporter sérénité et efficacité. Chaque projet est unique, et je m'adapte à vos besoins, que vous soyez une TPE/PME, une association ou un grand groupe. Ensemble, nous construirons la solution qui vous ressemble.
+  Mon engagement dépasse la technologie. Je vise à vous garantir tranquillité d'esprit et efficacité. Chaque projet est traité comme unique, et je m'adapte à chaque client, qu'il s'agisse d'une TPE, PME, association ou grand groupe. Construisons ensemble une solution sur mesure.
   
 
   ## Services
