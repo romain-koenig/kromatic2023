@@ -17,4 +17,4 @@ Directeur de la publication&nbsp;: Romain Koenig – contact [AT] kromatic.fr
 
 Crédit photo : 
 - Portrait par [Renaud Cezac](https://www.renaudcezac.com/)
-- Illustrations par DALLE-E 3 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) - Dithering par [Dither it!](https://ditherit.com/)
+- Illustrations par DALLE-E 3 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) - Réduction du poids des images par [Squoosh.app](https://squoosh.app/)
