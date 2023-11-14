@@ -131,3 +131,7 @@ dist
 
 # Output directory
 public
+
+// Speedlify files that comes from node modules and that are copied to working folder
+src/css/speedlify-score.css
+src/js/speedlify-score.js
