@@ -74,7 +74,7 @@ layout: base.njk
   * Conscient des enjeux environnementaux, je prône une utilisation raisonnée et responsable de la technologie. 
   * Avec une approche éthique et durable, je m'efforce de proposer des solutions qui ont du sens, tant pour l'entreprise que pour la société.  
   * Je favorise les solutions Libres et Ouvertes, garantes d'une pérénité et d'une indépendance à long terme.  
-  * Kromatic est une activité de lÉconomie Sociale et Solidaire (ESS).  
+  * Kromatic est une activité de l'Économie Sociale et Solidaire (ESS).  
   * Je pratique des tarifs solidaires pour les structures qui partagent mes valeurs.  
   
   <img class = "seize_neuf" 
