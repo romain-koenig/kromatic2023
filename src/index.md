@@ -9,10 +9,10 @@ layout: base.njk
   Kromatic fédère un collectif d'experts, chacun spécialisé dans son domaine, pour vous offrir une solution complète et de qualité.
 
   <img  class = "un_un"
-  src="/images/PORTRAIT_800.jpg"
-        srcset="/images/PORTRAIT_300.jpg 300w,
-                /images/PORTRAIT_400.jpg 400w,
-                /images/PORTRAIT_800.jpg 800w"
+  src="/images/PORTRAIT_800.avif"
+        srcset="/images/PORTRAIT_300.avif 300w,
+                /images/PORTRAIT_400.avif 400w,
+                /images/PORTRAIT_800.avif 800w"
         sizes="(max-width: 400px) 300px,
             (max-width: 800px) 400px,
             800px"
@@ -35,11 +35,11 @@ layout: base.njk
   L'intelligence artificielle est plus qu'une technologie, c'est une révolution. Je vous accompagne dans cette aventure, en vous aidant à intégrer l'IA dans vos processus et à prendre des décisions éclairées.
 
   <img class = "seize_neuf" 
-  src="/images/SOLARPUNK_01_1200.jpg"
-  srcset="/images/SOLARPUNK_01_1200.jpg 1200w,
-          /images/SOLARPUNK_01_800.jpg 800w,
-          /images/SOLARPUNK_01_400.jpg 400w,
-          /images/SOLARPUNK_01_300.jpg 300w"
+  src="/images/SOLARPUNK_01_1200.avif"
+  srcset="/images/SOLARPUNK_01_1200.avif 1200w,
+          /images/SOLARPUNK_01_800.avif 800w,
+          /images/SOLARPUNK_01_400.avif 400w,
+          /images/SOLARPUNK_01_300.avif 300w"
   sizes="(max-width: 400px) 300px,
       (max-width: 800px) 400px,
       (max-width: 1200px) 800px,
@@ -57,11 +57,11 @@ layout: base.njk
   Le succès d'un projet repose souvent sur une collaboration efficace. C'est pourquoi je m'entoure d'experts de confiance, chacun spécialisé dans son domaine, pour vous offrir une solution complète et de qualité.
 
   <img class = "seize_neuf" 
-    src="/images/SOLARPUNK_02_1200.jpg"
-    srcset="/images/SOLARPUNK_02_1200.jpg 1200w,
-            /images/SOLARPUNK_02_800.jpg 800w,
-            /images/SOLARPUNK_02_400.jpg 400w,
-            /images/SOLARPUNK_02_300.jpg 300w"
+    src="/images/SOLARPUNK_02_1200.avif"
+    srcset="/images/SOLARPUNK_02_1200.avif 1200w,
+            /images/SOLARPUNK_02_800.avif 800w,
+            /images/SOLARPUNK_02_400.avif 400w,
+            /images/SOLARPUNK_02_300.avif 300w"
     sizes="(max-width: 400px) 300px,
         (max-width: 800px) 400px,
         (max-width: 1200px) 800px,
@@ -78,11 +78,11 @@ layout: base.njk
   * Je pratique des tarifs solidaires pour les structures qui partagent mes valeurs.  
   
   <img class = "seize_neuf" 
-    src="/images/SOLARPUNK_03_1200.jpg"
-    srcset="/images/SOLARPUNK_03_1200.jpg 1200w,
-            /images/SOLARPUNK_03_800.jpg 800w,
-            /images/SOLARPUNK_03_400.jpg 400w,
-            /images/SOLARPUNK_03_300.jpg 300w"
+    src="/images/SOLARPUNK_03_1200.avif"
+    srcset="/images/SOLARPUNK_03_1200.avif 1200w,
+            /images/SOLARPUNK_03_800.avif 800w,
+            /images/SOLARPUNK_03_400.avif 400w,
+            /images/SOLARPUNK_03_300.avif 300w"
     sizes="(max-width: 400px) 300px,
         (max-width: 800px) 400px,
         (max-width: 1200px) 800px,
