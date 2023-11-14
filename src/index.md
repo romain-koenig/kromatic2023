@@ -8,15 +8,7 @@ layout: base.njk
 
   Kromatic fédère un collectif d'experts, chacun spécialisé dans son domaine, pour vous offrir une solution complète et de qualité.
 
-  <img  class = "un_un"
-  src="/images/PORTRAIT_800.avif"
-        srcset="/images/PORTRAIT_300.avif 300w,
-                /images/PORTRAIT_400.avif 400w,
-                /images/PORTRAIT_800.avif 800w"
-        sizes="(max-width: 400px) 300px,
-            (max-width: 800px) 400px,
-            800px"
-        alt="Portrait Romain Koenig">
+  <img  class = "un_un" src="/images/PORTRAIT_800.avif" srcset="/images/PORTRAIT_300.avif 300w, /images/PORTRAIT_400.avif 400w, /images/PORTRAIT_800.avif 800w" sizes="(max-width: 400px) 300px, (max-width: 800px) 400px, 800px" alt="Portrait Romain Koenig">
 
    ## Mon engagement
   
@@ -35,20 +27,10 @@ layout: base.njk
   L'intelligence artificielle est plus qu'une technologie, c'est une révolution. Je vous accompagne dans cette aventure, en vous aidant à intégrer l'IA dans vos processus et à prendre des décisions éclairées.
 
   <img class = "seize_neuf" 
-  src="/images/SOLARPUNK_01_1200.avif"
-  srcset="/images/SOLARPUNK_01_1200.avif 1200w,
-          /images/SOLARPUNK_01_800.avif 800w,
-          /images/SOLARPUNK_01_400.avif 400w,
-          /images/SOLARPUNK_01_300.avif 300w"
-  sizes="(max-width: 400px) 300px,
-      (max-width: 800px) 400px,
-      (max-width: 1200px) 800px,
-      1200px"
-      alt="Solarpunk illustration - tech for a better tomorrow">
+  src="/images/SOLARPUNK_01_1200.avif"  srcset="/images/SOLARPUNK_01_1200.avif 1200w, /images/SOLARPUNK_01_800.avif 800w, /images/SOLARPUNK_01_400.avif 400w, /images/SOLARPUNK_01_300.avif 300w" sizes="(max-width: 400px) 300px, (max-width: 800px) 400px, (max-width: 1200px) 800px, 1200px" alt="Solarpunk illustration - tech for a better tomorrow">
 
   ## Low Code / No Code
   La technologie doit être accessible à tous. Avec les solutions Low Code / No Code, je vous aide à automatiser vos processus, améliorer votre productivité et innover rapidement, sans les contraintes du développement traditionnel.
-  
 
   ## Zone d'intervention
   Basé en France métropolitaine, je suis mobile et flexible. Toutefois, soucieux de l'environnement, je privilégie le télétravail et les réunions en visioconférence, réduisant ainsi notre empreinte carbone.
@@ -56,17 +38,7 @@ layout: base.njk
   ## Une équipe à votre service
   Le succès d'un projet repose souvent sur une collaboration efficace. C'est pourquoi je m'entoure d'experts de confiance, chacun spécialisé dans son domaine, pour vous offrir une solution complète et de qualité.
 
-  <img class = "seize_neuf" 
-    src="/images/SOLARPUNK_02_1200.avif"
-    srcset="/images/SOLARPUNK_02_1200.avif 1200w,
-            /images/SOLARPUNK_02_800.avif 800w,
-            /images/SOLARPUNK_02_400.avif 400w,
-            /images/SOLARPUNK_02_300.avif 300w"
-    sizes="(max-width: 400px) 300px,
-        (max-width: 800px) 400px,
-        (max-width: 1200px) 800px,
-        1200px"
-    alt="Solarpunk illustration - digital responsibility">
+  <img class = "seize_neuf" src="/images/SOLARPUNK_02_1200.avif" srcset="/images/SOLARPUNK_02_1200.avif 1200w, /images/SOLARPUNK_02_800.avif 800w, /images/SOLARPUNK_02_400.avif 400w, /images/SOLARPUNK_02_300.avif 300w" sizes="(max-width: 400px) 300px, (max-width: 800px) 400px, (max-width: 1200px) 800px, 1200px" alt="Solarpunk illustration - digital responsibility">
 
   ## Ma promesse
   Chaque collaboration est basée sur la transparence, l'efficacité et la flexibilité. Je m'engage à vos côtés, avec des objectifs clairs et des livrables précis. Et parce que la confiance est essentielle, vous restez libre de notre collaboration à tout moment.
@@ -77,20 +49,9 @@ layout: base.njk
   * Kromatic est une activité de l'Économie Sociale et Solidaire (ESS).  
   * Je pratique des tarifs solidaires pour les structures qui partagent mes valeurs.  
   
-  <img class = "seize_neuf" 
-    src="/images/SOLARPUNK_03_1200.avif"
-    srcset="/images/SOLARPUNK_03_1200.avif 1200w,
-            /images/SOLARPUNK_03_800.avif 800w,
-            /images/SOLARPUNK_03_400.avif 400w,
-            /images/SOLARPUNK_03_300.avif 300w"
-    sizes="(max-width: 400px) 300px,
-        (max-width: 800px) 400px,
-        (max-width: 1200px) 800px,
-        1200px"
-    alt="Solarpunk illustration - Green market">
+  <img class = "seize_neuf" src="/images/SOLARPUNK_03_1200.avif" srcset="/images/SOLARPUNK_03_1200.avif 1200w, /images/SOLARPUNK_03_800.avif 800w, /images/SOLARPUNK_03_400.avif 400w, /images/SOLARPUNK_03_300.avif 300w" sizes="(max-width: 400px) 300px, (max-width: 800px) 400px, (max-width: 1200px) 800px, 1200px" alt="Solarpunk illustration - Green market">
   
   ## Prêt à entamer votre transformation digitale ?
   Contactez-moi et discutons ensemble de vos projets et ambitions. La technologie est un outil puissant, et je suis là pour vous aider à en tirer le meilleur parti.
-
 
   ## [Découvrez le portfolio de l'équipe](https://portfolio.krokee.fr)
