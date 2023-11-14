@@ -54,4 +54,4 @@ layout: base.njk
   ## Prêt à entamer votre transformation digitale ?
   Contactez-moi et discutons ensemble de vos projets et ambitions. La technologie est un outil puissant, et je suis là pour vous aider à en tirer le meilleur parti.
 
-  ## [Découvrez le portfolio de l'équipe](https://portfolio.krokee.fr)
+  ## <a href="https://portfolio.krokee.fr" target="_blank" rel="noopener noreferrer">Découvrez le portfolio de l'équipe</a>
