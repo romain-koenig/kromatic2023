@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "copy-speedlify": "mkdir src/js/ && cp node_modules/speedlify-score/speedlify-score.js src/js/ && cp node_modules/speedlify-score/speedlify-score.css src/css/",
+    "copy-speedlify": "mkdir -p src/js/ && cp node_modules/speedlify-score/speedlify-score.js src/js/ && cp node_modules/speedlify-score/speedlify-score.css src/css/",
     "test": "echo \"Error: no test specified\" && exit 1",
     "serve": "npm run copy-speedlify && npx @11ty/eleventy --serve",
     "build": "npm run copy-speedlify && npx @11ty/eleventy"
