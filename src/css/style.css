@@ -35,6 +35,18 @@ img {
 	width: 100%;
 }
 
+.W3C {
+	/* Small text */
+	font-size: 0.8em;
+	/* centered */
+	text-align: center;
+}
+
+#ecoindex-badge {
+	display: block;
+	margin: 0 auto;
+}
+
 
 body {
 	margin: 1em auto;
