@@ -22,6 +22,7 @@ img {
 .un_un {
 	aspect-ratio: 1 / 1;
 	width: 100%;
+	max-width: 400px;
 }
 
 .sept_cinq {

@@ -8,7 +8,7 @@ layout: base.njk
 
   Kromatic fédère un collectif d'experts, chacun spécialisé dans son domaine, pour vous offrir une solution complète et de qualité.
 
-  <img  class = "un_un" src="/images/PORTRAIT_800.avif" srcset="/images/PORTRAIT_300.avif 300w, /images/PORTRAIT_400.avif 400w, /images/PORTRAIT_800.avif 800w" sizes="(max-width: 400px) 300px, (max-width: 800px) 400px, 800px" alt="Portrait Romain Koenig">
+  <img  class = "un_un" src="/images/PORTRAIT_400.avif" srcset="/images/PORTRAIT_300.avif 300w, /images/PORTRAIT_400.avif 400w" sizes="(max-width: 399px) 300px, 400px" alt="Portrait Romain Koenig" />
 
    ## Mon engagement
   
@@ -18,22 +18,22 @@ layout: base.njk
   ## Services
   ### Consultation et stratégie
   
-  Chaque transformation commence par une vision. Ensemble, évaluons vos besoins, identifions les opportunités et traçons la route vers votre transformation digitale.
+  Chaque transformation commence par une vision. Ensemble, nous évaluons vos besoins et identifions les opportunités. Je vous accompagne tout au long de votre transformation digitale.
 
   ### Développement d'applications
-  De la conception à la mise en œuvre, je développe des applications web et mobiles sur mesure. Grâce aux dernières technologies, offrez à votre entreprise les outils dont elle a vraiment besoin.
+  De la conception à la mise en œuvre, mon équipe développe des applications web et mobiles sur mesure. Nous proposons à vos équipes les outils dont elles ont vraiment besoin, en adoptant une démarche d'éco-conception tout au long du projet.
 
   ### Expertise IA
-  L'intelligence artificielle est plus qu'une technologie, c'est une révolution. Je vous accompagne dans cette aventure, en vous aidant à intégrer l'IA dans vos processus et à prendre des décisions éclairées.
+  L'intelligence artificielle est plus qu'une technologie, c'est une révolution. Il est toutefois nécessaire de connaître les possibilités et les limites de cet outil, c'est pourquoi je vous accompagne en vous aidant à intégrer l'IA dans vos processus tout en prenant des décisions éclairées.
 
   <img class = "seize_neuf" 
   src="/images/SOLARPUNK_01_1200.avif"  srcset="/images/SOLARPUNK_01_1200.avif 1200w, /images/SOLARPUNK_01_800.avif 800w, /images/SOLARPUNK_01_400.avif 400w, /images/SOLARPUNK_01_300.avif 300w" sizes="(max-width: 400px) 300px, (max-width: 800px) 400px, (max-width: 1200px) 800px, 1200px" alt="Solarpunk illustration - tech for a better tomorrow">
 
   ## Low Code / No Code
-  La technologie doit être accessible à tous. Avec les solutions Low Code / No Code, je vous aide à automatiser vos processus, améliorer votre productivité et innover rapidement, sans les contraintes du développement traditionnel.
+  La technologie doit être accessible à tout le monde. Avec les solutions Low Code / No Code, il est possible d'automatiser vos processus, améliorer votre productivité et innover rapidement, sans les contraintes du développement traditionnel.
 
   ## Zone d'intervention
-  Basé en France métropolitaine, je suis mobile et flexible. Toutefois, soucieux de l'environnement, je privilégie le télétravail et les réunions en visioconférence, réduisant ainsi notre empreinte carbone.
+  Basé en France métropolitaine, je suis mobile et flexible, mais disponible prioritairement en visioconférence afin de réduire les déplacements. 
 
   ## Une équipe à votre service
   Le succès d'un projet repose souvent sur une collaboration efficace. C'est pourquoi je m'entoure d'experts de confiance, chacun spécialisé dans son domaine, pour vous offrir une solution complète et de qualité.
