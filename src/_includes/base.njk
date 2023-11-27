@@ -21,6 +21,8 @@
   <link rel="manifest" href="/site.webmanifest">
   <link rel="stylesheet" href="/css/speedlify-score.css">
   <script src="/js/speedlify-score.js" defer></script>
+  <script src="/js/removeImages.js" defer></script>
+
 </head>
 
 <body>
@@ -52,54 +54,12 @@
     <nav>
       <ul>
         <li><a href="/">Accueil</a> <br></li>
-        <li><a href="/mentions">Mentions légales</a></li>
         <li><a href="/temoignages">Témoignages clients</a></li>
+        <li><a href="/a-propos">À propos de la conception de ce site</a></li>
+        <li><a href="/mentions">Mentions légales</a></li>
       </ul>
     </nav>
 
-    <div class="lighthouse">
-      Scores Lighthouse pour cette page :
-      <speedlify-score hash="a03b4e7c" speedlify-url="https://speedlify-rko.netlify.app"></speedlify-score>
-    </div>
-
-    <div id="ecoindex-badge"></div>
-
-    <p class="W3C">
-      <a href="https://validator.w3.org/nu/?doc=https%3A%2F%2Fkromatic.fr%2F" target="_blank" rel="noopener noreferrer">Code HTML 100% Valide</a><br>
-      <a href="https://wave.webaim.org/report#/kromatic.fr" target="_blank" rel="noopener noreferrer">Accessibilité validée</a><br>
-      Pas de tracking, pas de cookies.
-    </p>
-
-    <div id="wcb" class="carbonbadge wcb-d"></div>
-
-<script src="https://cdn.jsdelivr.net/gh/cnumr/ecoindex_badge@3/assets/js/ecoindex-badge.js" defer></script>
-
-<script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
-
   </footer>
-<script>       
-
-
-function replaceImagesForPrinting() {
-    var images = document.querySelectorAll('img');
-    var placeholders = [];
-    images.forEach(function(img, index) {
-        var altText = img.alt;
-        var textNode = document.createTextNode(`[Illustration supprimée pour l'impression : ${altText}]`);
-        img.parentNode.replaceChild(textNode, img);
-        placeholders[index] = { textNode: textNode, img: img };
-    });
-
-    window.onafterprint = function() {
-        placeholders.forEach(function(placeholder) {
-            placeholder.textNode.parentNode.replaceChild(placeholder.img, placeholder.textNode);
-        });
-
-    }
-}
-
-window.onbeforeprint = replaceImagesForPrinting;
-
-</script>
 </body>
 </html>
