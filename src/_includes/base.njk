@@ -1,62 +1,70 @@
 <!DOCTYPE html>
 <html lang="fr">
 
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Kromatic</title>
-  <link rel="stylesheet" href="/css/style.css">
-  <link rel="stylesheet" href="/css/print.css" media="print">
-  <meta name="description"
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kromatic</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/print.css" media="print">
+    <meta name="description"
     content="Kromatic : Expertise en IA, Low Code / No Code. Accompagnement dans la transformation digitale pour TPE, PME, et associations.">
-  <meta name="keywords"
+    <meta name="keywords"
     content="Kromatic, transformation digitale, IA, Low Code, No Code, conseil, développement, expertise">
-  <meta name="author" content="Romain Koenig">
-  <meta name="robots" content="index, follow">
-  <meta name="generator" content="{{ eleventy.generator }}">
-  <link rel="icon" href="/favicon/favicon.ico" type="image/x-icon">
-  <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
-  <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
-  <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
-  <link rel="manifest" href="/site.webmanifest">
-  <link rel="stylesheet" href="/css/speedlify-score.css">
-  <script src="/js/speedlify-score.js" defer></script>
-  <script src="/js/removeImages.js" defer></script>
+    <meta name="author" content="Romain Koenig">
+    <meta name="robots" content="index, follow">
+    <meta name="generator" content="{{ eleventy.generator }}">
+    <link rel="icon" href="/favicon/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="180x180" href="/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="stylesheet" href="/css/speedlify-score.css">
+    <script src="/js/speedlify-score.js" defer></script>
+    <script src="/js/removeImages.js" defer></script>
+    <script src="/js/lazysizes.min.js" async=""></script>
 
-</head>
+  </head>
 
-<body>
-  <header class="center">
-    <a href="/">
-    <img src="/images/logo.svg" alt="Kromatic logo" width="100" height="100">
-    </a>
-    <h1>Kromatic</h1>
-  </header>
-  {{ content | safe }}
-  <footer>
-    <h2>Pour me joindre&nbsp;:</h2>
-    <ul>
-      <li>
+  <body>
+    <header class="center">
+      <a href="/">
+        <img src="/images/logo.svg" alt="Kromatic logo" width="100" height="100">
+      </a>
+      <h1>Kromatic</h1>
+    </header>
+    {{ content | safe }}
+    <footer>
+      <h2>Pour me joindre&nbsp;:</h2>
+      <ul>
+        <li>
         Par e-mail à l'adresse <em>contact [AT] kromatic.fr</em>
-      </li>
-      <li>
-        <a href="https://www.linkedin.com/in/romainkoenig/" target="_blank" rel="noopener noreferrer">Écrivez-moi sur LinkedIn</a>
-      </li>
-      <li>
-        <a href="https://calendly.com/romainkoenig/30min" target="_blank" rel="noopener noreferrer">Prenez rendez-vous (30 minutes d'échange téléphonique découverte, sans engagement)</a>
-      </li>
-    </ul>
-    
+        </li>
+        <li>
+          <a href="https://www.linkedin.com/in/romainkoenig/" target="_blank" rel="noopener noreferrer">Écrivez-moi sur LinkedIn</a>
+        </li>
+        <li>
+          <a href="https://calendly.com/romainkoenig/30min" target="_blank" rel="noopener noreferrer">Prenez rendez-vous (30 minutes d'échange téléphonique découverte, sans engagement)</a>
+        </li>
+      </ul>
 
-  <img class = "seize_neuf" src="/images/SOLARPUNK_04_1200.avif" srcset="/images/SOLARPUNK_04_1200.avif 1200w, /images/SOLARPUNK_04_800.avif 800w, /images/SOLARPUNK_04_400.avif 400w, /images/SOLARPUNK_04_300.avif 300w" sizes="(max-width: 400px) 300px, (max-width: 800px) 400px, (max-width: 1200px) 800px, 1200px" alt="Solarpunk illustration - Renewable energy">
-        
+      <img class = "seize_neuf lazyload" src="/images/SOLARPUNK_04_1200.avif" srcset="/images/SOLARPUNK_04_1200.avif 1200w, /images/SOLARPUNK_04_800.avif 800w, /images/SOLARPUNK_04_400.avif 400w, /images/SOLARPUNK_04_300.avif 300w" sizes="(max-width: 400px) 300px, (max-width: 800px) 400px, (max-width: 1200px) 800px, 1200px" alt="Solarpunk illustration - Renewable energy">
+
     </div>
     <nav>
       <ul>
-        <li><a href="/">Accueil</a> <br></li>
-        <li><a href="/temoignages">Témoignages clients</a></li>
-        <li><a href="/a-propos">À propos de la conception de ce site</a></li>
-        <li><a href="/mentions">Mentions légales</a></li>
+        <li>
+          <a href="/">Accueil</a>
+          <br></li>
+        <li>
+          <a href="/temoignages">Témoignages clients</a>
+        </li>
+        <li>
+          <a href="/a-propos">À propos de la conception de ce site</a>
+        </li>
+        <li>
+          <a href="/mentions">Mentions légales</a>
+        </li>
       </ul>
     </nav>
 
