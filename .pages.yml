@@ -3,3 +3,8 @@ content:
     label: Pages
     path: src
     type: collection
+
+  - name: parts
+    label: Parts
+    path: src/_includes
+    type: collection
