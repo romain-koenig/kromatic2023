@@ -37,4 +37,12 @@ eleventyNavigation:
 
 3. Add content below the frontmatter
 
+## Testing
 
+This site uses Playwright for testing. To run the tests, run `npm run test`.
+
+To update teh reference screenshots :
+
+```bash
+npx playwright test --update-snapshots
+```
