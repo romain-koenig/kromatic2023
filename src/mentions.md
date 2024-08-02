@@ -6,7 +6,7 @@ layout: base.njk
 
 ## Présentation du site internet
 
-En vertu de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, il est précisé aux utilisateurs du site internet [https://kromatic.fr](https://kromatic.fr) l'identité des différents intervenants dans le cadre de sa réalisation et de son suivi:
+En vertu de l'article 6 de la loi n° 2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique, il est précisé aux utilisateurs du site internet [https://kromatic.fr](https://kromatic.fr) l'identité des différents intervenants dans le cadre de sa réalisation et de son suivi:  
 **Propriétaire** :  Escale Création Société coopérative d’intérêt collectif (SCIC) exploitée sous forme de SA La Coursive, 7 rue Robert et Reynier 69190 SAINT-FONS  
 **Responsable de la publication** : Romain Koenig / Membre d’Escale Création, Société coopérative d’intérêt collectif (SCIC) exploitée sous forme de SA. La Coursive, 7 rue Robert et Reynier 69190 SAINT-FONS  
 Email : contact [AT] kromatic.fr  
