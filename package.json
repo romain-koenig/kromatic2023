@@ -6,20 +6,21 @@
   "scripts": {
     "copy-speedlify": "mkdir -p src/js/ && cp node_modules/speedlify-score/speedlify-score.js src/js/ && cp node_modules/speedlify-score/speedlify-score.css src/css/",
     "test": "npx playwright test",
-    "serve": "npm run copy-speedlify && npx @11ty/eleventy --serve",
-    "build": "npm run copy-speedlify && npx @11ty/eleventy"
+    "serve": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.1",
-    "@11ty/eleventy-cache-assets": "^2.3.0",
     "@11ty/eleventy-navigation": "^0.3.5",
     "@playwright/test": "^1.40.0",
     "@types/node": "^20.10.0"
   },
   "dependencies": {
+    "@11ty/eleventy-cache-assets": "^2.3.0",
+    "@11ty/eleventy-fetch": "^4.0.1",
     "html-minifier": "^4.0.0",
     "speedlify-score": "^3.0.0"
   }
