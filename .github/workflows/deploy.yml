@@ -3,7 +3,7 @@ name: Deploy to FTP
 on:
   push:
     branches:
-      - main  # ou la branche que vous utilisez
+      - main # ou la branche que vous utilisez
   # déploiement aussi possible à la main
   workflow_dispatch:
 
@@ -14,7 +14,7 @@ jobs:
 
     steps:
       - name: 🚚 Get latest code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: 🛠️ Build project
         run: |
@@ -22,7 +22,7 @@ jobs:
           npm run build
 
       - name: 📂 Sync files
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.4
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ftp.ymzk1123.odns.fr
           username: ${{ secrets.FTP_USERNAME }}
