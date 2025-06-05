@@ -2,9 +2,11 @@
 layout: base.njk
 ---
 
-## Vous avez une équipe IT qui assure. Faites-le savoir.
-
-Kromatic met en lumière votre travail, auprès de vos clients internes et du top management.
+<div class="hero">
+  <img class="hero-image" src="/images/solarpunk_illustration_01.png" alt="Illustration futuriste" />
+  <h2>Vous avez une équipe IT qui assure. Faites-le savoir.</h2>
+  <p>Kromatic met en lumière votre travail, auprès de vos clients internes et du top management.</p>
+</div>
 
 ### "Ils font quoi à la DSI ? Ça fait des mois qu'on parle du projet AlphaB. Ça n'avance pas."
 Le projet AlphaB ? C'est un vrai challenge technique. Vous y mettez les moyens. Vous avez positionné les meilleurs sur le coup. Ils se démènent, trouvent des solutions pour contourner toutes les difficultés. Oui, bien sûr qu'il avance, comme beaucoup d'autres sujets d'ailleurs… Mais personne ne le sait.
@@ -52,6 +54,7 @@ En fonction de vos besoins, je peux également :
 - Former vos collaborateurs à la prise de parole en comité stratégique
 
 ### Report Owl : l'outil dédié au reporting IT
+<img class="feature-image" src="/images/solarpunk_illustration_02.png" alt="Report Owl" />
 Fini les tableaux à rallonge et les e-mails illisibles. J’ai développé **Report Owl**, un logiciel pensé pour les équipes IT.
 
 Chaque destinataire reçoit un e-mail hebdomadaire :
@@ -78,6 +81,7 @@ En choisissant Kromatic, vous bénéficiez d’un outil personnalisable et déj�
 ---
 
 ## À propos de moi
+<img class="portrait" src="/images/PORTRAIT_400.jpg" alt="Romain Koenig" />
 Je suis **Romain Koenig**. Ingénieur de formation, j’explore avec passion le monde de la Tech depuis 20 ans : gestion de projet, avant‑vente, management, formation continue en coding et prompting IA. J’ai travaillé dans des structures de toute taille (TPE, PME, grands groupes) pour des métiers variés : éditeur, distributeur, DSI.
 
 Ce parcours éclectique me permet aujourd'hui de me situer au carrefour de la technique, de la stratégie et de l'opérationnel. Je parle le langage de la Tech tout en comprenant vos enjeux et les besoins des verticaux métiers que vous servez.
